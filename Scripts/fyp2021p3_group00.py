@@ -13,11 +13,11 @@ from sklearn.metrics import accuracy_score
 
 import fyp2021p3_group00_functions as util
 
-file_data = 'data/Raw/example_ground_truth.csv'
-path_image = 'data/Raw/example_image'
-path_mask = 'data/Raw/example_segmentation'
+file_data = '../data/Raw/example_ground_truth.csv'
+path_image = '../data/Raw/example_image'
+path_mask = '../data/Raw/example_segmentation'
 
-file_features = 'features/features.csv'
+file_features = '../Features/features.csv'
 
 
 
