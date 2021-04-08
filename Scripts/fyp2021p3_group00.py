@@ -17,7 +17,7 @@ file_data = '../data/Raw/example_ground_truth.csv'
 path_image = '../data/Raw/example_image'
 path_mask = '../data/Raw/example_segmentation'
 
-file_features = '../Features/features.csv'
+file_features = '..Data/Raw/Features/features.csv'
 
 
 
