@@ -9,4 +9,3 @@ Participants are:
 - Florian Micliuc (flmi@itu.dk) 
 - Mattias Wohlert (mawo@itu.dk)
 - Sofia Elena Terenziani (sote@itu.dk) 
- Hello!
